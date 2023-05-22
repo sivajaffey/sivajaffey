@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @siva
+- 👋 Hi, I’m @sivaraman
 - 👀 I’m developer, interested to learn new technologies. ready to work on any technologies based on project scope.
 - 🌱 My skills :
-- Frameworks : Angular, React, Vue and Codeigniter
-- Programming languages & Libraries : Javascript, jQuery, Html, css and PHP
+- Frameworks : Angular, React, Vue, Cordova and Codeigniter.
+- Programming languages & Libraries : Javascript, PHP, Bash Scripting, jQuery, Html and css.
 - Databases : MySql, Firebase and redis
-- other skills : Shopify, Memecache, Google map api, Material UI, Angular Material, ngx-admin, Datatables, PrimeNg, Highcharts, Webpack
+- Others : Shopify, Memecache, Google map api, Material UI, Angular Material, ngx-admin, Datatables, PrimeNg, Highcharts, Webpack
 - 📫 You can reach me through 
 - Email : sivajaffer@gmail.com
 - Website : https://shivusr.wordpress.com/
 - Linkedin : https://www.linkedin.com/in/siva-raman-072173177/
+- My Product : Lucky : https://luckychat.business.blog/
