@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sivaraman
-- 👀 I’m developer, interested to learn new technologies. ready to work on any technologies based on project scope.
+- 👀 I’m Web and Mobile app developer, Interested to learn and Ready to work on any technologies based on requirement.
 - 🌱 My skills :
 - Frameworks : Angular, React, Vue, Cordova and Codeigniter.
 - Programming languages & Libraries : Javascript, PHP, Bash Scripting, jQuery, Html and css.
-- Databases : MySql, Firebase and redis
+- Databases : MySql, Firebase and Redis
 - Others : Shopify, Memecache, Google map api, Material UI, Angular Material, ngx-admin, Datatables, PrimeNg, Highcharts, Webpack
 - 📫 You can reach me through 
 - Email : sivajaffer@gmail.com
