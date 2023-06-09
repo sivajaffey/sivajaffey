@@ -1,14 +1,19 @@
 - 👋 Hi, I’m Sivaraman
-- 👀 I’m Web and Mobile app developer, Interested to learn and Ready to work on any technologies based on requirement.
+- 👀 I’m Full Stack Web Development and Mobile app developer.
+- 
 - 🌱 My skills :
 - Frameworks : Angular, React, Vue, Cordova and Codeigniter.
-- Programming languages & Libraries : Javascript, PHP, Bash Scripting, jQuery, Html and css.
+- Programming languages & Libraries & Scripting : Javascript, PHP, Bash, jQuery, Html and css.
 - Databases : MySql, Firebase and Redis
-- Others : Shopify, Memecache, Google map api, Material UI, Angular Material, ngx-admin, Datatables, PrimeNg, Highcharts, Webpack
-- 📫 You can reach me through 
+- Others : Shopify, Memecache, Google map api, Material UI, Angular Material, ngx-admin, Datatables, PrimeNg, Highcharts
+- 
+- 📫 Contact for web & mobile app development & deployment & support
 - Email : sivajaffer@gmail.com
 - Website : https://shivusr.wordpress.com/
 - Linkedin : https://www.linkedin.com/in/siva-raman-072173177/
-- My Products Latest Release 
+- Projects : https://shivusr.wordpress.com/projects/
+- My Products : https://shivusr.wordpress.com/products/
+- 
+- Latest Release 
 - NextTime : https://nexttime.business.blog/
--  Lucky Chat Application : https://luckychat.business.blog/
+- Lucky Chat Application : https://luckychat.business.blog/
