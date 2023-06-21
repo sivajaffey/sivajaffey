@@ -9,10 +9,10 @@
 - 
 - 📫 Contact for web & mobile app development & deployment & support
 - Email : sivajaffer@gmail.com
-- Website : https://shivusr.wordpress.com/
+- Website : https://sivaraman.business.blog/
 - Linkedin : https://www.linkedin.com/in/siva-raman-072173177/
-- Projects : https://shivusr.wordpress.com/projects/
-- My Products : https://shivusr.wordpress.com/products/
+- Projects : https://sivaraman.business.blog/projects/
+- My Products : https://sivaraman.business.blog/products/
 - 
 - Latest Release 
 - NextTime : https://nexttime.business.blog/
