@@ -11,8 +11,8 @@
 - Email : sivajaffer@gmail.com
 - Website : https://sivaraman.business.blog/
 - Linkedin : https://www.linkedin.com/in/siva-raman-072173177/
-- Projects : https://sivaraman.business.blog/projects/
-- My Products : https://sivaraman.business.blog/products/
+- Professional Projects : https://sivaraman.business.blog/projects/
+  Personel Projects : https://sivaraman.business.blog/products/
 - 
 - Latest Release 
 - NextTime : https://nexttime.business.blog/
