@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Sivaraman
-- 👀 I’m Full Stack Web Development and Mobile app developer.
+- 👀 I’m Full Stack Web Development and Hybrid Mobile application developer.
 - 
 - 🌱 My skills :
-- Frameworks : Angular, React, Vue, Cordova and Codeigniter.
-- Programming languages & Libraries & Scripting : Javascript, PHP, Bash, jQuery, Html and css.
-- Databases : MySql, Firebase and Redis
-- Others : Shopify, Memecache, Google map api, Material UI, Angular Material, ngx-admin, Datatables, PrimeNg, Highcharts
+- Frameworks : Angular, React, Cordova and Codeigniter.
+- Programming languages & Libraries & Scripting : Javascript, PHP, Bash, and jQuery.
+- Databases : MySql and Firebase.
 - 
 - 📫 Contact for web & mobile app development & deployment & support
 - Email : sivajaffer@gmail.com
@@ -13,6 +12,7 @@
 - Linkedin : https://www.linkedin.com/in/siva-raman-072173177/
 - Professional Projects : https://sivaraman.business.blog/projects/
 - Personel Projects : https://sivaraman.business.blog/products/
+- Play developer console : https://play.google.com/store/apps/dev?id=6037240469134858815
 - 
 - Latest Release 
 - NextTime : https://nexttime.business.blog/
