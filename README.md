@@ -16,6 +16,6 @@
 - 
 - Latest Release
 - #### Available on Android ####
-- Find the thief - https://sivaraman.business.blog/findthethief/
-- NextTime : https://nexttime.business.blog/
-- Lucky Chat Application : https://luckychat.business.blog/
+- Find the thief ( Game ) - https://sivaraman.business.blog/findthethief/
+- NextTime ( App ): https://nexttime.business.blog/
+- Lucky Chat Application ( App ) : https://luckychat.business.blog/
