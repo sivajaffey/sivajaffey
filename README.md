@@ -17,6 +17,6 @@
 - Latest Release
 - #### Available on Android ####
 - Find the thief ( Game ) - https://sivaraman.business.blog/findthethief/
-- Flames - A retro astrology game - https://sivaraman.business.blog/flames
+- Flames - A retro astrology game to find match between two names - https://sivaraman.business.blog/flames
 - NextTime ( App ): https://nexttime.business.blog/
 - Lucky Chat Application ( App ) : https://luckychat.business.blog/
