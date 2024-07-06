@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Sivaraman
-- 👀 I’m Full Stack Web Development and Hybrid Mobile application developer.
+- 👀 Full Stack Web Development and Hybrid Mobile application developer.
 - 
 - 🌱 My skills :
 - Frameworks : Angular, React, Cordova and Codeigniter.
-- Programming languages & Libraries & Scripting : Javascript, PHP, Bash, and jQuery.
+- Programming languages & Libraries & Scripting : Javascript, Typescript, PHP, Bash, and jQuery.
 - Databases : MySql and Firebase.
 - 
 - 📫 Contact for web & mobile app development & deployment & support
@@ -18,5 +18,7 @@
 - #### Available on Android ####
 - Find the thief ( Game ) - https://sivaraman.business.blog/findthethief/
 - Flames - A retro astrology game to find match between two names - https://sivaraman.business.blog/flames
+
+# Other apps
 - NextTime ( App ): https://nexttime.business.blog/
 - Lucky Chat Application ( App ) : https://luckychat.business.blog/
