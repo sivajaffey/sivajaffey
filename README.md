@@ -9,7 +9,7 @@
 # 📫 Contact for web & mobile app development & deployment & support
 - Email : sivajaffer@gmail.com
 - Website : https://sivaraman.business.blog/
-- Linkedin : https://www.linkedin.com/in/siva-raman-072173177/
+- Linkedin : https://www.linkedin.com/in/sivaraman-k-072173177/
 - Professional Projects : https://sivaraman.business.blog/projects/
 - Personel Projects : https://sivaraman.business.blog/products/
 - Play developer console : https://play.google.com/store/apps/dev?id=6037240469134858815
