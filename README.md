@@ -1,18 +1,9 @@
 # 👋 Hi, I’m Sivaraman
 - 👀 Full Stack Web Development and Hybrid Mobile application developer.
-- 
 # 🌱 My skills :
-- Frameworks : Angular, React, Cordova and Codeigniter.
-- Programming languages & Libraries & Scripting : Javascript, Typescript, PHP, Bash, and jQuery.
-- Databases : MySql and Firebase.
-- 
-# 📫 Contact for web & mobile app development & deployment & support
-- Email : sivajaffer@gmail.com
-- Website : https://sivaraman.business.blog/
-- Linkedin : https://www.linkedin.com/in/sivaraman-k-072173177/
-- Professional Projects : https://sivaraman.business.blog/projects/
-- Personel Projects : https://sivaraman.business.blog/products/
-- Play developer console : https://play.google.com/store/apps/dev?id=6037240469134858815
+- Frameworks : Angular, React, Cordova, Ionic and Codeigniter.
+- Programming languages & Libraries & Scripting : Javascript, Typescript, PHP, Bash/Shell, and jQuery.
+- Databases : MySql, Postgresql and Firebase.
 
 # Latest Release
 - #### Available on Android ####
