@@ -1,4 +1,5 @@
-# 👋 Hello, I m a Full Stack Web & Hybrid Mobile application developer.
+# 👋 Hello, 
+- I m a Full Stack Web & Hybrid Mobile application developer.
 
 # 🌱 My skills :
 - Frameworks : Angular, React, Cordova, Ionic and Codeigniter.
